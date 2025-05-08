@@ -121,7 +121,3 @@ This project applies **Natural Language Processing (NLP)** and **predictive mode
 
 ---
 
-## 📬 **Contact**
-- **Author**: Subham Mangi  
-- **Email**: [subham.mangi@utdallas.edu](mailto:subham.mangi@utdallas.edu)  
-- **GitHub**: [SUBHAMMANGI](https://github.com/SUBHAMMANGI)
