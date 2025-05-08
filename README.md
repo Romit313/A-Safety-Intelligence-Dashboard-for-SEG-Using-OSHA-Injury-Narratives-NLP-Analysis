@@ -1,7 +1,7 @@
 
 # 📊 **Safety Intelligence Dashboard Using OSHA Injury Narratives & NLP**
 
-## 📑 **Project Description**
+## 📑 **Project Overview**
 This project applies **Natural Language Processing (NLP)** and **predictive modeling** to analyze safety risks using **OSHA injury narratives** and **machine-related safety data**. The goal is to develop a **Safety Intelligence Dashboard** for SEG, providing businesses with actionable insights to reduce workplace injuries. The analysis explores trends, safety risks, and predicts future incidents.
 
 ---
